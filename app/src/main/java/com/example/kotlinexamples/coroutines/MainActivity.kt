@@ -32,6 +32,7 @@ package com.raywenderlich.snowy
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.kotlinexamples.R
 import com.google.android.material.tabs.TabLayout
 import com.raywenderlich.snowy.model.Tutorial
 import kotlinx.android.synthetic.main.activity_main.*
