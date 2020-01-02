@@ -2,6 +2,7 @@ package com.example.kodeintest
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.kotlinexamples.R
 import com.github.salomonbrys.kodein.KodeinInjector
 import com.github.salomonbrys.kodein.android.AppCompatActivityInjector
 import com.github.salomonbrys.kodein.instance
